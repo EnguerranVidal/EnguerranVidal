@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-Welcome to my Github page, I am a Grad student in the Paul Sabatier University in Toulouse, France where I am specializing in Space Technics and Instrumentation. I mainly use Github as a way to post and share my fun personal projects made entirely in Python and some of my college projects as well if they turn out interesting. 
+Welcome to my Github page, I am a Grad student in the Paul Sabatier University in Toulouse, France where I am specializing in Space Technics and Instrumentation. I mainly use Github as a way to post and share my fun personal projects made entirely in Python and some of my college projects as well if they turn out interesting. Feel free to snoop in my repositories !
 
 Here are some links you can contact me on, feel free to message me. <a href="https://www.linkedin.com/in/enguerran-vidal/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" /></a> <a href="engue11@hotmail.com"><img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" /></a>
 
