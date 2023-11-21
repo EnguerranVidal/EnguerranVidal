@@ -6,7 +6,8 @@ Welcome to my Github page, I am a Space Engineering PhD student from France. I m
 
 Here are some links you can contact me with, feel free to message me if you would have any questions or details on which to enquire. 
 
-<a href="https://www.linkedin.com/in/enguerran-vidal/"><img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" /></a> <a href="engue11@hotmail.com"><img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Outlook.com_icon_%282012-2019%29.svg/1200px-Outlook.com_icon_%282012-2019%29.svg.png" /></a>
+<a href="https://www.linkedin.com/in/enguerran-vidal/"><img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" /></a> <a href="engue11@hotmail.com"><img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Outlook.com_icon_%282012-2019%29.svg/1200px-Outlook.com_icon_%282012-2019%29.svg.png" /></a><br>
 
+[![Enguerran's github trophy](https://github-profile-trophy.vercel.app/?username=EnguerranVidal&row=1)](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![Enguerran's github stats](https://github-readme-stats.vercel.app/api?username=EnguerranVidal&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)[![Enguerran's github streak](https://github-readme-streak-stats.herokuapp.com/?user=EnguerranVidal&theme=blue-green)](https://github.com/EnguerranVidal/github-readme-streak-stats)
 
-![Enguerran Vidal GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnguerranVidal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=dark)
