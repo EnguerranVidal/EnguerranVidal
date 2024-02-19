@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-  [![HitCount](http://hits.dwyl.com/EnguerranVidal/EnguerranVidal.svg?style=flat)](http://hits.dwyl.com/EnguerranVidal/EnguerranVidal) [![wakatime](https://wakatime.com/badge/user/d1fb42e6-38e1-489b-a7b0-fa05747ea94a.svg)](https://wakatime.com/@d1fb42e6-38e1-489b-a7b0-fa05747ea94a)
+ [![wakatime](https://wakatime.com/badge/user/d1fb42e6-38e1-489b-a7b0-fa05747ea94a.svg)](https://wakatime.com/@d1fb42e6-38e1-489b-a7b0-fa05747ea94a)
 
 Welcome to my Github page, I am a Space Engineering PhD student from France. I mainly use Github as a way to post and share my fun personal programming projects made entirely in Python and some of my old college projects when they turned out to be quite interesting or seemed worth continuing after the fact. Feel free to snoop in my repositories if you fancy something. I mainly specialize in implementing physics problems into code and GUIs. Here are some links you can contact me with, feel free to message me if you would have any questions or details on which to enquire. 
 
